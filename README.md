@@ -1,24 +1,7 @@
-# [silvery107.github.io](https://silvery107.github.io/)
+# [haoyuma2002814.github.io](https://haoyuma2002814.github.io/)
 
-Welcome! Click :point_up_2: to view an example.
 
-This is the template of my personal website.
-
-For further customization, search "placeholder" in this repo and change accordingly.
-
-## Features
-
-- [x] Add a section for my course projects.
-- [x] Change the layout to be more fashionable.
-- [x] Add some media to my publications.
-- [x] Add a background. A dynamic one would be better.
-- [x] Add navigation buttons for fast linking.
-- [x] Add a background color.
-- [x] Add image zooming in/out functions.
-- [x] Add a dark mode switch.
-- [x] Add a floating action button.
-- [x] Add text showing last updated date.
-- [ ] Add top and bottom bars showing the ends of page.
+This is the template borrowed from [Yulun Zhang](https://github.com/silvery107/template.site.git)
 
 
 ## Reference

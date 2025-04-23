@@ -1,12 +1,12 @@
 # Jekyll Configuration
 theme: jekyll-theme-minimal
-title: Yulun Zhuang
-description: Robotics PhD at UMich
+title: Haoyu Ma
+description: MS Robotics at UMich
 logo: assets/img/head.png
 google_analytics: G-placeholder
-url_cv: assets/img/placeholder.jpg
-url_github: https://github.com/silvery107
-url_email: yulunz@umich.edu
-url_linkedin: https://www.linkedin.com/in/yulun107
-url_steam: https://steamcommunity.com/id/silvery107
-url_scholar: https://scholar.google.com.sg/citations?hl=en&user=z_gDNE0AAAAJ
+url_cv: assets/pdf/Haoyu_Ma_CV.pdf
+url_github: https://github.com/haoyuma2002814
+url_email: mahaoyu@umich.edu
+url_linkedin: www.linkedin.com/in/haoyuma2002814
+url_steam: https://steamcommunity.com/profiles/76561198215419487/
+url_scholar: https://scholar.google.com/citations?hl=en&user=ymMkf48AAAAJ
