@@ -1,7 +1,7 @@
 # [haoyuma2002814.github.io](https://haoyuma2002814.github.io/)
 
 
-This is the template borrowed from [Yulun Zhang](https://github.com/silvery107/template.site.git)
+This is the template borrowed from [Yulun Zhang](https://github.com/silvery107/template.site.git).
 
 
 ## Reference
