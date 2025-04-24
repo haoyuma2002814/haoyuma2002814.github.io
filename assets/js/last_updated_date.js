@@ -1,5 +1,5 @@
-const userName = "silvery107";
-const desiredRepo = "silvery107.github.io";
+const userName = "haoyuma2002814";
+const desiredRepo = "haoyuma2002814.github.io";
 const gitHubPersonalAccessToken = "placeholder";
 const dateTagClass = ".date";
 const months = ["Jan.", "Feb.", "Mar.", "Apr.", "May", "Jun.", "Jul.", "Aug.", "Sep.", "Oct.", "Nov.", "Dec."];
